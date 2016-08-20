@@ -5,4 +5,6 @@ exit;
 echo 'こんにちは';
 exit;
 
+phpinfo();
+
 ?>

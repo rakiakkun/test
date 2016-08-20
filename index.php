@@ -2,7 +2,7 @@
 echo '水本';
 exit;
 
-echo 'こんにちは';
+echo 'こんにちはたかいです';
 exit;
 
 phpinfo();
